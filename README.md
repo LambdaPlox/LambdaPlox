@@ -1,16 +1,17 @@
-### Hi there 👋
+# :rocket: Hey :v:, I am Nico.
 
-<!--
-**LambdaPlox/LambdaPlox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+On this account I manage my projects & try to document my learning progress.
 
-Here are some ideas to get you started:
+## :telescope: What Projects?
+Basically, I like to spend my spare time with mathematics, physics, chemistry and computer science.\
+Here I try to learn different languages & tools and document my progress in form of notebooks and little projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :wrench: What Tools?
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+## :computer: What Languages?
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Latex](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat&logo=wolframlanguage&logoColor=white)
